@@ -1,5 +1,5 @@
 # Brave-backup
-Backup and restore brave browser withot synch function.
+Backup and restore brave browser without synch function.
 
 
 ℹ️ YourFolder is the path to your Brave browser's backup profile folder, and it should be an absolute path.
